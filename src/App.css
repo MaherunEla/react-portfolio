@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+h3.section-subheading{
+  color: crimson !important;
+  font-weight: 700 !important;
+  
+}
+
+#services{
+  background-color:#2c3e50;
+}
